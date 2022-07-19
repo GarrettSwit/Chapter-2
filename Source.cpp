@@ -53,7 +53,7 @@ void SumAverage() {
 
 int main() {
 	
-	//SumAverage();
+	SumAverage();
 	CubeThis();
 	return 0;
 }
